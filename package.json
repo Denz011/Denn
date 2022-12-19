@@ -29,16 +29,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Denz011/Denn",
+    "homepage": "https://github.com/ImYanXiao/Elaina-MultiDevice",
     "author": {
-        "name": "Denz011"
+        "name": "ImYanXiao"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Denz011/Denn.git"
+        "url": "git+https://github.com/ImYanXiao/Elaina-MultiDevice.git"
     },
     "bugs": {
-        "url": "https://github.com/Denz011/Denn/issues"
+        "url": "https://github.com/ImYanXiao/Elaina-MultiDevice/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
